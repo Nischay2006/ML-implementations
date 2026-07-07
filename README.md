@@ -14,14 +14,17 @@ Datasets used:
 📁 Insurance Dataset
 ❤️ Heart Disease Dataset
 
-📂 Project Structure
+## 📂 Project Structure
+
+```bash
 ML-implementations/
-│
 ├── Ml1.ipynb        # Insurance dataset analysis
 ├── Ml2.ipynb        # Heart disease dataset analysis
 ├── heart.csv        # Heart dataset
 ├── insurance.csv    # Insurance dataset
-└── python/          # Additional experiments
+├── python/          # Additional experiments
+└── .ipynb_checkpoints/
+```
 
 🔍 What’s Covered
 📊 1. Exploratory Data Analysis (EDA)
