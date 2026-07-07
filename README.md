@@ -27,6 +27,7 @@ ML-implementations/
 ```
 
 🔍 What’s Covered
+
 📊 1. Exploratory Data Analysis (EDA)
 Understanding dataset structure
 Statistical summaries
@@ -50,6 +51,7 @@ Reducing dimensionality (if applicable)
 Model building (basic models)
 Training & evaluation
 Performance comparison
+
 🛠️ Tech Stack
 🐍 Python
 📊 Pandas, NumPy
