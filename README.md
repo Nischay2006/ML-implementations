@@ -53,12 +53,18 @@ Training & evaluation
 Performance comparison
 
 🛠️ Tech Stack
+
 🐍 Python
+
 📊 Pandas, NumPy
+
 📈 Matplotlib, Seaborn
+
 🤖 Scikit-learn
-🎯 Goal
+
 🚀 Sheryians Library (used for additional utilities / learning-based implementations)
+
+🎯 Goal
 
 The main goal of this repository is to:
 
