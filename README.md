@@ -1,4 +1,4 @@
-# 🚀 Data Analysis &  Basic Machine Learning Implementation
+# 🚀  Basic Machine Learning Implementation
 
 ## 📌 What's Covered
 
