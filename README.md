@@ -4,15 +4,22 @@
 This repository contains end-to-end Machine Learning workflows on real-world datasets, focusing on:
 
 🧠 Exploratory Data Analysis (EDA)
+
 🧹 Data Cleaning & Preprocessing
+
 ⚙️ Feature Engineering
+
 📊 Feature Extraction
+
 🤖 Basic ML Implementations
+
 
 Datasets used:
 
 📁 Insurance Dataset
+
 ❤️ Heart Disease Dataset
+
 
 ## 📂 Project Structure
 
@@ -64,6 +71,8 @@ Performance comparison
 
 🚀 Sheryians Library (used for additional utilities / learning-based implementations)
 
+
+
 🎯 Goal
 
 The main goal of this repository is to:
@@ -71,13 +80,21 @@ The main goal of this repository is to:
 Build a strong foundation in machine learning workflows by implementing complete pipelines from raw data → insights → models.
 
 📸 Sample Workflow
+
 Raw Data → Cleaning → EDA → Feature Engineering → Model → Evaluation
 
+
+
 💡 Future Improvements
+
 🔹 Add advanced ML models
+
 🔹 Hyperparameter tuning
+
 🔹 Model deployment
+
 🔹 More datasets
+
 
 🤝 Contributing
 Feel free to fork this repo and improve it!
