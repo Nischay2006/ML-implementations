@@ -1,4 +1,4 @@
-# 🚀 Data Analysis & Machine Learning Project
+# 🚀 Data Analysis &  Basic Machine Learning Implementation
 
 ## 📌 What's Covered
 
