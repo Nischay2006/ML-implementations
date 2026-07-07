@@ -3,22 +3,22 @@
 
 This repository contains end-to-end Machine Learning workflows on real-world datasets, focusing on:
 
-🧠 Exploratory Data Analysis (EDA)
+  Exploratory Data Analysis (EDA)
 
-🧹 Data Cleaning & Preprocessing
+  Data Cleaning & Preprocessing
 
-⚙️ Feature Engineering
+  Feature Engineering
 
-📊 Feature Extraction
+  Feature Extraction
 
-🤖 Basic ML Implementations
+  Basic ML Implementations
 
 
 Datasets used:
 
-📁 Insurance Dataset
+  Insurance Dataset
 
-❤️ Heart Disease Dataset
+  Heart Disease Dataset
 
 
 ## 📂 Project Structure
@@ -35,26 +35,26 @@ ML-implementations/
 
 🔍 What’s Covered
 
-📊 1. Exploratory Data Analysis (EDA)
+  1. Exploratory Data Analysis (EDA)
 Understanding dataset structure
 Statistical summaries
 Data visualization (distribution, correlation, trends)
 
-🧹 2. Data Cleaning
+  2. Data Cleaning
 Handling missing values
 Removing duplicates
 Fixing inconsistent data
 
-⚙️ 3. Feature Engineering
+  3. Feature Engineering
 Creating new meaningful features
 Encoding categorical variables
 Feature scaling & transformation
 
-🧠 4. Feature Extraction
+  4. Feature Extraction
 Selecting important features
 Reducing dimensionality (if applicable)
 
-🤖 5. Machine Learning Basics
+  5. Machine Learning Basics
 Model building (basic models)
 Training & evaluation
 Performance comparison
